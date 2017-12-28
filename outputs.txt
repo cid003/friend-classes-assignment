@@ -1,0 +1,180 @@
+This Chair ID: 110is invalid and doesn't exist.
+---------------------------------------
+         DEPARTMENTS INFO
+---------------------------------------
+Department ID: 100
+Department Name: ComputerScience
+Department ID: 101
+Department Name: Education
+Department ID: 102
+Department Name: Business
+Department ID: 103
+Department Name: Engineering
+This department ID: 130 is invalid and doesn't exist.
+===================================================
+Faculties of Department ID#: 100
+===================================================
+Faculty ID: 600
+Faculty Member Name: John_Smith
+Faculty ID: 601
+Faculty Member Name: Bob_Anderson
+Faculty ID: 602
+Faculty Member Name: Sue_Clark
+===================================================
+Faculties of Department ID#: 101
+===================================================
+Faculty ID: 603
+Faculty Member Name: Abu_Talib
+Faculty ID: 604
+Faculty Member Name: Nancy_Bank
+Faculty ID: 605
+Faculty Member Name: Susan_Brown
+===================================================
+Faculties of Department ID#: 102
+===================================================
+Faculty ID: 606
+Faculty Member Name: Ahmad_Saleh
+Faculty ID: 607
+Faculty Member Name: Beth_Card
+Faculty ID: 608
+Faculty Member Name: Joe_Abraham
+This department ID: 130 is invalid and doesn't exist.
+This Advisor ID: 910 is invalid and doesn't exist.
+---------------------------------------
+         STUDENTS INFO
+---------------------------------------
+Student ID: 500
+Student Name: Kathy_Chen
+Student ID: 501
+Student Name: Kelly_Wong
+===================================================
+Students of Faculty ID#: 600
+===================================================
+Student ID: 500
+Student Name: Kathy_Chen
+Student ID: 501
+Student Name: Kelly_Wong
+
+
+
+
+
+
+
+
+
+This faculty ID: 650 is invalid and doesn't exist.
+This Faculty ID: 706 is invalid and doesn't exist.
+---------------------------------------
+          COURSES INFO
+---------------------------------------
+CRN: 200
+Course Name: CS111
+CRN: 201
+Course Name: CS211
+CRN: 202
+Course Name: CS311
+CRN: 203
+Course Name: Ed100
+CRN: 204
+Course Name: Ed200
+CRN: 205
+Course Name: Ed300
+CRN: 206
+Course Name: Bus101
+CRN: 207
+Course Name: Bus102
+CRN: 208
+Course Name: Bus103
+===================================================
+Courses Taught by Faculty ID#: 606
+===================================================
+
+
+
+
+
+
+CRN: 206
+Course Name: Bus101
+CRN: 207
+Course Name: Bus102
+
+
+
+This faculty ID: 706 is invalid and doesn't exist.
+=======================================================
+Courses of Department ID#: 100
+=======================================================
+CRN: 200
+Course Name: CS111
+CRN: 201
+Course Name: CS211
+CRN: 202
+Course Name: CS311
+
+
+
+
+=======================================================
+Courses of Department ID#: 101
+=======================================================
+
+CRN: 203
+Course Name: Ed100
+CRN: 204
+Course Name: Ed200
+CRN: 205
+Course Name: Ed300
+
+
+
+=======================================================
+Courses of Department ID#: 102
+=======================================================
+
+
+CRN: 206
+Course Name: Bus101
+CRN: 207
+Course Name: Bus102
+CRN: 208
+Course Name: Bus103
+
+
+This department course 130 does not exist.
+This course number 230 is invalid and doesn't exist.
+===================================================
+Courses Taken by Student ID#: 500
+===================================================
+CRN: 200
+Course Name: CS111
+
+CRN: 201
+Course Name: CS211
+
+CRN: 202
+Course Name: CS311
+
+This student ID: 520 is invalid and doesn't exist.
+===================================================
+Courses Taken by Student ID#: 500
+===================================================
+CRN: 200
+Course Name: CS111
+
+CRN: 201
+Course Name: CS211
+
+CRN: 202
+Course Name: CS311
+
+This faculty ID: 610 is invalid and doesn't exist.
+This department ID: 110 is invalid and doesn't exist.
+===================================================
+Courses Taught by Faculty ID#: 600
+===================================================
+CRN: 200
+Course Name: CS111
+CRN: 201
+Course Name: CS211
